@@ -12,6 +12,7 @@ bower install
 
 ###Blog Urls: 
 [Transitioning To Angular 2.0 - Part 1](http://blog.briebugsoftwaresolutions.com/2015/05/12/transitioning-to-angular-2-0-part-1)
+
 [Transitioning To Angular 2.0 - Part 2](http://blog.briebugsoftwaresolutions.com/2015/05/19/transitioning-to-angular-2-0-part-2)
 
 # angular-seed — the seed for AngularJS apps
